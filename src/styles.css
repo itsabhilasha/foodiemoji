@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@100&display=swap");
+
+.App {
+  font-family: "Exo", sans-serif;
+  text-align: center;
+}
+h1 {
+  color: blueviolet;
+}
+input {
+  width: 80vh;
+  height: 5vh;
+  padding: 0.5rem 1rem;
+}
+.emojis-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.emojis {
+  padding: 0.5rem;
+  margin: 1rem 0.5rem;
+  cursor: pointer;
+  font-size: 2rem;
+}
